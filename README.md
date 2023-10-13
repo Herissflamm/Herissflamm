@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, my name is Adrien. I'm a student in My Digital School Rennes in web developpement. 👋
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herissflamm&theme=date_night)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Herissflamm&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Herissflamm&theme=date_night&utcOffset=8)
 
 <!--
 **Herissflamm/Herissflamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
